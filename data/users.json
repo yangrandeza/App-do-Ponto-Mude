@@ -1,0 +1,14 @@
+{
+    "yan": {
+        "password": "yan",
+        "role": "admin"
+    },
+    "Carolina": {
+        "password": "@26Feliz!",
+        "role": "admin"
+    },
+    "Teste": {
+        "password": "teste",
+        "role": "user"
+    }
+}
